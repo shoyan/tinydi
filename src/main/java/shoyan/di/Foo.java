@@ -1,5 +1,8 @@
 package shoyan.di;
 
+import javax.inject.Named;
+
+@Named
 public class Foo {
     public Foo() {
     }
